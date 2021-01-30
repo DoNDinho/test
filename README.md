@@ -15,6 +15,7 @@ _Crea un archivo .env con las siguientes variables:_
 * **FIRMATOKENJWT** - Firma del token JWT
 * **DURACIONTOKENJWT** - Duracion token JWT en segundos
 * **FIRMATOKENJWE** - Firmta token JWE
+
 _Ejecuta el servidor:_
 ```
 $ npm start
