@@ -21,5 +21,13 @@ _Ejecuta el servidor:_
 $ npm start
 ```
 
+_test_
+```json
+{
+  "name": "Diego",
+  "age": 24
+}
+```
+
 ## Autor ✒️
 * **Diego Flores** - Desarrollador [DoNDinho](https://github.com/DoNDinho)
