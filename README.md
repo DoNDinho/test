@@ -6,7 +6,7 @@ _Para instalar dependencias ejecute el siguiente comando_
 ```
 npm install
 ```
-_Crear un archivo *.env* con las siguientes variables:_
+_Crear un archivo .env con las siguientes variables:_
 * **PORT** - Puerto del servidor
 * **FIRMATOKENJWT** - Firma del token JWT
 * **DURACIONTOKENJWT** - Duracion token JWT en segundos
