@@ -3,8 +3,8 @@ _Microservicio para generar y encriptar token_
 
 ### Instalación 🔧
 _Para instalar dependencias ejecute el siguiente comando_
-```
-npm install
+```env
+$ npm install
 ```
 _Crear un archivo .env con las siguientes variables:_
 * **PORT** - Puerto del servidor
