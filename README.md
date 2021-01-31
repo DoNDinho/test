@@ -24,7 +24,7 @@ $ npm start
 
 
 ## Ejecutando la aplicación ⚙️
-_Para ejecutar la aplicación importe la colección y entorno en postman_
+_Para ejecutar la aplicación importe la colección y entorno en postman ubicado en la carpeta [test](https://github.com/DoNDinho/test)_
 
 ## Autor ✒️
 * **Diego Flores** - Desarrollador [DoNDinho](https://github.com/DoNDinho)
