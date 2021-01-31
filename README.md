@@ -22,13 +22,9 @@ _Ejecuta el servidor:_
 $ npm start
 ```
 
-_test_
-```json
-{
-  "name": "Diego",
-  "age": 24
-}
-```
+
+## Ejecutando la aplicación ⚙️
+_Para ejecutar la aplicación importe la colección y entorno en postman_
 
 ## Autor ✒️
 * **Diego Flores** - Desarrollador [DoNDinho](https://github.com/DoNDinho)
